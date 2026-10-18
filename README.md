@@ -4,8 +4,7 @@
 - Nama: Gugun Ramdani  
 - NIM: 2225250061  
 - Kelas: 3A
-- Program Studi: Pendidikan Matematika 
-- Mata Kuliah: Algoritma dan Pemrograman
+- Mata Kuliah: Algoritma dan Pemrograman (Pertemuan 09)
 
 ## Tujuan
 Mengolah kumpulan data numerik menggunakan list Python,
